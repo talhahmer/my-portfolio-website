@@ -203,7 +203,7 @@ function Hero() {
             onMouseEnter={e => { e.currentTarget.style.opacity = "0.88"; e.currentTarget.style.transform = "translateY(-2px)"; }}
             onMouseLeave={e => { e.currentTarget.style.opacity = "1"; e.currentTarget.style.transform = "translateY(0)"; }}
           >View Projects</a>
-          <a href="https://drive.google.com/file/d/1KudNcOAPrv-yN6RtHui55mlhW82e730w/view?usp=sharing" target="_blank"
+          <a href="https://drive.google.com/file/d/1PjPQy5DvHYdRMjJSkKIM4ctaMq5mRVCM/view?usp=sharing" target="_blank"
             style={{
               padding: "13px 28px", borderRadius: 10,
               background: "transparent", color: "#a5b4fc", fontSize: 14, fontWeight: 500,
@@ -293,7 +293,7 @@ function About() {
               I've had the privilege of working on projects for <strong style={{ color: "#e2e8f0" }}>WOAH (World Organisation for Animal Health)</strong> — one of the most impactful international organisations in my field. Currently focused on transitioning fully into full-stack roles. 🚀
             </p>
             <div style={{ display: "flex", gap: 14, marginTop: 28, flexWrap: "wrap" }}>
-              <a href="https://drive.google.com/file/d/1KudNcOAPrv-yN6RtHui55mlhW82e730w/view?usp=sharing" target="_blank"
+              <a href="https://drive.google.com/file/d/1PjPQy5DvHYdRMjJSkKIM4ctaMq5mRVCM/view?usp=sharing" target="_blank"
                 style={{ padding: "10px 22px", borderRadius: 8, background: "linear-gradient(135deg,#818cf8,#6366f1)", color: "#fff", fontSize: 13, fontWeight: 500, textDecoration: "none" }}>Resume</a>
               <a href="https://www.linkedin.com/in/talhaahmer/" target="_blank"
                 style={{ padding: "10px 22px", borderRadius: 8, background: "transparent", color: "#a5b4fc", fontSize: 13, fontWeight: 500, border: "1px solid rgba(129,140,248,0.35)", textDecoration: "none" }}>LinkedIn</a>
